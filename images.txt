@@ -1,11 +1,4 @@
-nginx
-redis:6-alpine
-langgenius/dify-web:latest
-langgenius/dify-api:latest
-ubuntu/squid:latest
-semitechnologies/weaviate:1.19.0
-postgres:15-alpine
-langgenius/dify-sandbox:latest
+python:alpine3.19
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
